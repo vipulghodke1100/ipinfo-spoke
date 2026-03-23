@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="global.com_snc_core_automation_glideencrypter">bddc8db07722201099808d11681061bc</crypto_module>
+        <key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type>
+        <last_enforced>2026-03-23 11:52:06</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 11:52:06</sys_created_on>
+        <sys_id>458a6b69c3fb32104a2adf0d05013150</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="IPInfo Spoke" source="x_1956466_ipinfo_0">fc822f29c3bb32104a2adf0d0501315f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">fc822f29c3bb32104a2adf0d0501315f</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_458a6b69c3fb32104a2adf0d05013150</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 11:52:06</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>

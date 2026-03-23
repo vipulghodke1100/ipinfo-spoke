@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_1956466_ipinfo_0.IPInfo_Alias</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfo Alias</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 11:50:17</sys_created_on>
+        <sys_id>1ef9a729c3fb32104a2adf0d050131fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1956466_ipinfo_0.IPInfo_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_1956466_ipinfo_0">fc822f29c3bb32104a2adf0d0501315f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">fc822f29c3bb32104a2adf0d0501315f</sys_scope>
+        <sys_update_name>sys_alias_1ef9a729c3fb32104a2adf0d050131fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 11:50:17</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
